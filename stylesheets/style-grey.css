@@ -207,7 +207,7 @@ blockquote blockquote:before{display:none;}
 .interest .interest-topic span{display:block;}
 .info{width:100%;background-color:#424242;min-height:480px;height:auto;}
 .info ul{padding:30px 20px;display:block;}
-.info ul li{margin-bottom:15px;letter-spacing:1px;display:block;color:#ffffff;font-size:1em;font-weight:300;display:block;}
+.info ul li{margin-top:35px; margin-bottom:15px;letter-spacing:1px;display:block;color:#ffffff;font-size:1em;font-weight:300;display:block;}
 .info ul li i{color:#ffffff;font-size:30px;}
 .contact{width:100%;min-height:480px;height:auto;}
 .contact form{padding:20px 40px;}
